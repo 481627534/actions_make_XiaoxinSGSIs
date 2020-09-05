@@ -1,7 +1,7 @@
 {
-  "rom_url": "https://master.dl.sourceforge.net/project/xiaomi-eu-multilang-miui-roms/xiaomi.eu/MIUI-WEEKLY-RELEASES/20.9.3/xiaomi.eu_multi_HMK30_20.9.3_v12-10.zip",
-  "rom_name": "xiaomi.eu_multi_HMK30_20.9.3_v12-10.zip",
-  "pack_sgsi": "K30_20.9.3-eu_XiaoxinSGSIs_Pinkdoge.7z",
+  "rom_url": "https://cdn-test-ota.blackshark.com/KLE-A0/20200824165442-klein-ota-signed_by_xiaomi_505c8c3e621a25b4dd3eab6a4e49b3e1.zip",
+  "rom_name": "joyui12_822zip",
+  "pack_sgsi": "joyui12_822_XiaoxinSGSIs_Pinkdoge.7z",
   "make_miui": true,
   "make_flyme": false,
   "make_coloros": false,
